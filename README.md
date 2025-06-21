@@ -36,3 +36,14 @@ The custom ensemble model (algo_cat) showed improved predictive capability when 
 The SuperLearner ensemble also performed well and can serve as a benchmark for ensemble modeling.
 
 This project highlights the benefits of ensemble techniques in predictive analytics, especially when complex ensemble libraries are not used, and emphasizes the importance of evaluating multiple models to enhance credit scoring accuracy.
+
+![Dashboard](https://github.com/atahirkoylu/Evaluation-of-German-Credit-Data/blob/main/1.png)
+
+![Dashboard](https://github.com/atahirkoylu/Evaluation-of-German-Credit-Data/blob/main/2.png)
+
+![Dashboard](https://github.com/atahirkoylu/Evaluation-of-German-Credit-Data/blob/main/3.png)
+
+![Dashboard](https://github.com/atahirkoylu/Evaluation-of-German-Credit-Data/blob/main/4.png)
+
+![Dashboard](https://github.com/atahirkoylu/Evaluation-of-German-Credit-Data/blob/main/5.png)
+
